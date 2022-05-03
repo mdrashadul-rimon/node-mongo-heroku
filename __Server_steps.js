@@ -10,5 +10,9 @@
  * for each project
  * ------------------------------
  * 1. heroku create
- * 2. 
+ * 2. make sure to : git add . git commit -m"  text" and git push (ekhane aktu vejal lagbe matha khatai ber korba)
+ * 3. git push heroku main
+ * 4. go to heroku dashboard > current project > settings > Reveal config vars
+ * 5. copy paste config vars from your .env file
+ * 6.
  */
